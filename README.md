@@ -1,13 +1,13 @@
 # Keyvan M. Sadeghi
 
-AI Solutions Architect | Advanced Analytics & AI Leader  
+AI Solutions Architect | Advanced Analytics & AI Leader
 Toronto, Ontario, Canada • +1 416-859-8984 • keyvan.m.sadeghi@gmail.com • [LinkedIn](https://www.linkedin.com/in/keyvanmsadeghi)
 
 ---
 
 ### SUMMARY
 
-Innovative AI leader with 10+ years of experience driving advanced analytics strategies and AI enablement across global organizations. Proven track record in transforming complex technical challenges into high-impact business solutions by leveraging machine learning, big data, and decentralized cloud technologies. Passionate storyteller and collaborative leader adept at forging strategic partnerships, mentoring high-performing teams, and delivering measurable business outcomes.
+Innovative AI leader with 10+ years of experience driving advanced analytics strategies and AI enablement across global organizations. Proven track record in transforming complex technical challenges into high-impact business solutions by leveraging machine learning, big data, and Web technologies. Passionate storyteller and collaborative leader adept at forging strategic partnerships, mentoring high-performing teams, and delivering measurable business outcomes.
 
 ---
 
@@ -16,9 +16,9 @@ Innovative AI leader with 10+ years of experience driving advanced analytics str
 - **Advanced Analytics Strategy**  
 - **AI/ML & GenAI Solutions**  
 - **Big Data Technologies & Data Visualization**  
-- **Cloud Computing & Decentralized Storage**  
+- **Cloud Computing & Web Technologies**  
 - **Data-Driven Decision Making & Statistical Analysis**  
-- **Python, R, SQL, PL/SQL, MLOps**  
+- **Python, MATLAB, SQL, SQL/NoSQL, MLOps**  
 - **Team Leadership & Cross-functional Collaboration**  
 - **External Research Partnerships & Innovation**  
 - **Open-Source Contributions & Agile Methodologies**
@@ -31,10 +31,10 @@ Innovative AI leader with 10+ years of experience driving advanced analytics str
 *Co-founder, Chief Science Officer*  
 January 2021 – Present
 
-- Spearheaded the development of a decentralized cloud storage platform (Box & FxBlox) that redefines data ownership and reduces cloud costs by up to 60%, driving 1,000+ nodes and aggregating over 1 petabyte of storage.
-- Built strategic partnerships with industry leaders including Protocol Labs, Fetch.ai, and Outlier Ventures; collaborated with renowned designer Yves Béhar to integrate cutting-edge hardware design with advanced analytics.
+- Spearheaded the development of FxBlox hardware and protocol, that redefines data ownership and reduces cloud costs by up to 60%. Delivered 1,000+ initial nodes aggregating over 1 petabyte of storage.
+- Built strategic partnerships with industry leaders including Protocol Labs, Fetch.ai, and Techstars; collaborated with renowned designer Yves Béhar to integrate cutting-edge hardware design with advanced analytics.
 - Orchestrated a highly successful crowdfunding campaign that raised over US$500K within minutes, validating market demand and demonstrating clear product-market fit.
-- Led the implementation of advanced analytics-driven infrastructure, aligning technical capabilities with enterprise-level data strategy and AI enablement initiatives.
+- Led the implementation of advanced analytics-driven infrastructure, aligning technical capabilities with enterprise-level data strategy and AI enablement initiatives (e.g. local DeepSeek deployment).
 - Drove external research partnerships and presented Functionland’s innovative solutions at global tech accelerators and industry forums.
 
 **Assister Technology Ltd, Toronto, Canada**  
@@ -50,7 +50,7 @@ December 2018 – August 2021
 *Lead Architect, AI Team*  
 April 2017 – November 2018
 
-- Built and led an AI analytics team, scaling from 2 to 20+ members, to modernize legacy fleet planning systems by migrating to a SaaS platform with integrated machine learning models.
+- Formed and led an AI analytics team, scaling from 2 to 20+ members, to modernize legacy fleet planning systems by migrating to a SaaS platform with integrated machine learning models.
 - Optimized operational efficiency through data visualization and predictive analytics, resulting in measurable ROI and improved decision-making processes.
 - Played a pivotal role in legacy software migration, utilizing SQL, statistical analysis, and advanced data modeling.
 
@@ -60,13 +60,13 @@ February 2015 – January 2017
 
 - Mentored and guided startups through agile development cycles from proof-of-concept to MVP, fostering a culture of innovation and collaboration.
 - Directed the transformation of complex technical ideas into tangible business solutions, including the creation of the open-source koa-neo4j framework for e-health applications.
-- Instrumental in product pivots at Miras Technologies, leading the development of a real-time predictive maintenance system on Apache Spark for power station turbines.
+- Instrumental in product pivots such as leading the development of a real-time predictive maintenance system on Apache Spark for power station turbines.
 
 **Azad University of Isfahan / ISTT, Isfahan, Iran**  
 *Lecturer / Researcher*  
 September 2014 – February 2015
 
-- Delivered “Foundations of AI” courses (based on Russell and Norvig) to undergraduate students, fostering the next generation of tech innovators.
+- Delivered “Foundations of AI” courses (Russell and Norvig) to undergraduate students, fostering the next generation of tech innovators.
 - Established a Cloud Computing R&D group to explore IaaS/PaaS solutions, providing early exposure to cloud technologies in a nascent market.
 
 **Hong Kong Polytechnic University / Novamente LLC, Hong Kong**  
