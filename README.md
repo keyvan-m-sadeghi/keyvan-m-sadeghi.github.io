@@ -174,7 +174,7 @@ _Hong Kong | Feb 2012 – Feb 2013 (1 yr 1 mo)_
 ---
 
 ### Engineering Intern  
-**irisairisa**  
+**IRISA**  
 _Tehran, Iran | Jun 2010 – Aug 2010 (3 mos)_  
 **Skills:** Programming, Software Development
 
