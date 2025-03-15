@@ -1,6 +1,7 @@
-**Keyvan M. Sadeghi**  
+# Keyvan M. Sadeghi
+
 AI Solutions Architect | Advanced Analytics & AI Leader  
-Toronto, Ontario, Canada • +1 416-859-8984 • keyvan.m.sadeghi@gmail.com • LinkedIn
+Toronto, Ontario, Canada • +1 416-859-8984 • keyvan.m.sadeghi@gmail.com • [LinkedIn](https://www.linkedin.com/in/keyvanmsadeghi)
 
 ---
 
