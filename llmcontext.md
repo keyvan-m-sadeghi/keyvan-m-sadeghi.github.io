@@ -558,4 +558,335 @@ Keyvan’s journey is a testament to relentless curiosity, deep technical innova
 - Research & Innovation  
 - Startups Mentor  
 
-*End of Document*
+# Keyvan’s opinions shared on AGI mailing list
+
+## Comprehensive Analysis of Keyvan M. Sadeghi's Themes on the AGI Mailing List
+
+### Introduction
+
+This analysis delves into the multifaceted contributions of Keyvan M. Sadeghi to the AGI (Artificial General Intelligence) mailing list, focusing on messages archived between March 27, 2024, and February 23, 2025. The objective was to identify, categorize, and analyze the key themes in Keyvan’s posts, drawing from the publicly available archives at `mail-archive.com`. These messages were explicitly attributed to Keyvan via his email address, `keyvan.m.sadeghi@gmail.com`. The process involved a thorough review of each message, extraction of central themes, and contextualization within the broader discussion threads on the mailing list. The resulting analysis spans a variety of topics, from technical innovations to societal implications, and contrasts Keyvan’s perspectives with common sense views to highlight their uniqueness or alignment with prevailing thought.
+
+The temporal scope of this study is limited to the specified period (2024–2025), reflecting the available data from the archives. Each message was timestamped, allowing for a chronological mapping of Keyvan’s contributions. Below, the analysis is organized into thematic sections, followed by supporting tables, contextual insights, limitations, and a conclusion, ensuring a comprehensive reconstruction of the original detailed analysis.
+
+---
+
+### Themes and Detailed Analysis
+
+#### AI Ethics and Safety
+
+Keyvan’s perspective on AI ethics and safety stands out for its skepticism toward popular narratives of AI as an existential threat. In a message dated March 30, 2024, titled "How AI will kill us," he explicitly rejects the notion that an AI, having absorbed all human knowledge, would turn against humanity, labeling such fears as "fucking delusional." Instead, he shifts the focus to human responsibility, arguing that the true ethical concerns lie in how AI is programmed, trained, and deployed by its human creators.
+
+- **Context**: This statement emerged within a broader discussion on AI safety, likely in response to doomsday scenarios popularized by media or certain tech figures. Keyvan’s use of strong language underscores his frustration with what he perceives as irrational fearmongering.
+- **Extrapolation**: He views AI as a neutral tool, not an autonomous entity capable of independent malice. His emphasis on human agency suggests a belief that ethical AI development hinges on transparent programming practices and responsible data use, rather than speculative risks of AI gaining sentience or hostility.
+- **Contrast with Common Sense**: While the public often fixates on exaggerated threats—like rogue superintelligent AIs—common sense aligns with Keyvan to the extent that it recognizes AI’s behavior as a product of human design. However, his dismissal of AI threat narratives contrasts with widespread public anxiety, fueled by science fiction and warnings from some tech leaders.
+
+#### Human Behavior and Consciousness
+
+Keyvan links the understanding of human consciousness to the alignment of AI with human values, as evidenced in a May 8, 2024, message under the thread "Hey, looks like the goertzel is hiring...". He references Jeremy Griffith’s theories, suggesting that resolving issues of the human condition—rooted in consciousness—could reshape how we model human intelligence in AI systems.
+
+- **Context**: This comment likely arose in a discussion about AI development challenges, possibly tied to hiring or research priorities. Griffith’s work, which explores the psychological origins of human behavior, is an unconventional citation in AGI discourse.
+- **Extrapolation**: Keyvan posits that a deeper grasp of consciousness is essential for creating AI that mirrors human values and decision-making. By invoking Griffith, he advocates for an interdisciplinary approach, integrating psychological insights into technical AI design, potentially to address alignment problems (ensuring AI acts in humanity’s best interest).
+- **Contrast with Common Sense**: Common sense in AI research prioritizes empirical, data-driven methods over theoretical frameworks like Griffith’s, which some might dismiss as speculative or lacking rigorous scientific backing. Keyvan’s reliance on such theories marks a departure from mainstream technical focus.
+
+#### Gender and Diversity in AI
+
+In a provocative May 7, 2024, message within the same "Hey, looks like the goertzel is hiring..." thread, Keyvan addresses gender disparities in AI, observing that the AGI list "reeks of male testosterone." He controversially ties this male dominance to biological differences, citing higher murder rates among men as an example of innate tendencies that might influence participation in STEM fields.
+
+- **Context**: This remark likely responded to a discussion about diversity in AI or the composition of the mailing list itself. His phrasing suggests a critique of the field’s demographics, followed by a contentious explanation.
+- **Extrapolation**: Keyvan appears to argue that biological factors—beyond societal influences—contribute to gender imbalances in AI. He might be calling for research into these differences to better understand workforce dynamics, though his stance risks oversimplification or biological determinism.
+- **Contrast with Common Sense**: Common sense attributes gender gaps in STEM primarily to societal factors—education access, cultural norms, and workplace biases—rather than biology. Keyvan’s view is a significant outlier, likely sparking debate for its sensitive and unconventional nature.
+
+#### Free Speech and Social Media
+
+Keyvan demonstrates a practical interest in enhancing digital expression, as seen in a March 27, 2024, message under "How AI will kill us." He shares a GitHub project called "volume-buttons," designed to address free speech challenges on social media, and solicits feedback on its top-down approach.
+
+- **Context**: This contribution likely tied into a discussion about AI’s societal impact, particularly on communication platforms. The project’s name and purpose suggest a tool to amplify or moderate online voices.
+- **Extrapolation**: His goal is to bolster free expression in digital spaces, possibly through software that adjusts content visibility or user influence. The top-down approach implies a structured, possibly centralized design, contrasting with decentralized free speech solutions.
+- **Contrast with Common Sense**: Common sense supports free speech as a principle but acknowledges the need for moderation to curb misinformation or harm. Keyvan’s initiative aligns with this balance, though his specific method might differ from typical bottom-up, community-driven platforms.
+
+#### Quantum Computing
+
+On February 23, 2025, in a message titled "The Cognitive Singularity Theorem (CST)," Keyvan explores quantum computing’s potential as a frontier for AGI. He highlights its ability to process complex data using qubits (quantum bits) versus traditional bits, envisioning it as a transformative leap.
+
+- **Context**: This discussion likely addressed advanced AI architectures or theoretical milestones like the Cognitive Singularity. Keyvan’s focus on qubits reflects a technical interest in quantum advantages.
+- **Extrapolation**: He sees quantum computing as a speculative yet promising avenue for AGI, potentially enabling hybrid systems that combine classical and quantum processing to tackle intricate problems—like consciousness simulation or vast data analysis—beyond current capabilities.
+- **Contrast with Common Sense**: While common sense recognizes quantum computing’s theoretical potential, it views its practical application to AGI as uncertain and distant due to current technological limits. Keyvan’s optimism positions him as forward-thinking, if speculative.
+
+#### Skepticism of Tech Leaders
+
+Keyvan expresses distrust of prominent tech figures in a May 29, 2024, message titled "GPT-4o," criticizing Sam Altman, Eric Schmidt, and Elon Musk. He calls their AGI predictions an "unholy/profitable business," questioning their motives and influence.
+
+- **Context**: This critique likely responded to announcements or hype around GPT-4o or AGI timelines, reflecting broader mailing list debates about industry direction.
+- **Extrapolation**: He perceives corporate AGI efforts as driven by profit rather than altruism, advocating for community-led development as a counterweight. His skepticism extends to the credibility of their forecasts, suggesting a preference for grassroots innovation.
+- **Contrast with Common Sense**: Common sense shares unease about corporate power in AI but often sees leaders like Altman or Musk as essential for funding and advancing research. Keyvan’s stronger rejection marks a more radical stance.
+
+#### Geopolitics and Global Issues
+
+In an April 14, 2024, message simply titled "Iran," Keyvan probes AGI’s role in geopolitical tensions, specifically mentioning Iran. This suggests a concern about AI’s global implications beyond technical development.
+
+- **Context**: The message likely sought input on how AGI might influence international relations, with Iran as a focal point—possibly due to its technological or political significance at the time.
+- **Extrapolation**: He views AI as a strategic tool in global power dynamics, potentially urging international cooperation to mitigate risks like military misuse or escalation of conflicts. His focus on Iran hints at a nuanced awareness of regional AI applications.
+- **Contrast with Common Sense**: Common sense acknowledges AI’s geopolitical stakes—e.g., in defense or surveillance—but Keyvan’s emphasis on Iran is niche, diverging from broader discussions typically centered on major powers like the U.S. or China.
+
+#### Blockchain and Knowledge Ownership
+
+On June 4, 2024, in a message titled "RLHF over Blockchain," Keyvan proposes using blockchain to enable individuals to own knowledge contributed to AI systems. He shares a video and slides detailing this concept, tied to reinforcement learning from human feedback (RLHF).
+
+- **Context**: This idea likely emerged in a thread about AI training or data ethics, with RLHF being a method to refine AI behavior using human input.
+- **Extrapolation**: He envisions a system where people upload knowledge to AI and retain ownership via blockchain’s decentralized ledger, potentially monetizing their contributions through tokens. This blends technical innovation with economic incentives, addressing data rights in AI development.
+- **Contrast with Common Sense**: Common sense sees blockchain as a tool for secure data management, but Keyvan’s application to knowledge ownership is innovative yet challenging—facing issues like implementation complexity and legal recognition.
+
+---
+
+### Tables of Key Findings
+
+To provide a clear overview of Keyvan’s contributions, the following tables summarize the temporal distribution and thematic focus of his messages:
+
+#### Temporal Distribution of Messages
+
+| **Date**          | **Message Topic**                     | **Key Themes**                                      |
+|-------------------|---------------------------------------|----------------------------------------------------|
+| March 27, 2024    | How AI will kill us                   | AI ethics, free speech, social media               |
+| April 14, 2024    | Iran                                  | Geopolitics, AGI’s global role                     |
+| May 7, 2024       | Hey, looks like the goertzel is hiring... | Gender dynamics, biological differences            |
+| May 8, 2024       | Hey, looks like the goertzel is hiring... | Human consciousness, psychological theories        |
+| May 29, 2024      | GPT-4o                                | AGI future, skepticism of tech leaders             |
+| June 4, 2024      | RLHF over Blockchain                  | Blockchain, knowledge ownership                    |
+| February 23, 2025 | The Cognitive Singularity Theorem (CST) | Quantum computing, free will, AI training data     |
+
+#### Thematic Frequency and Examples
+
+| **Theme**                     | **Count** | **Examples**                                      |
+|-------------------------------|-----------|--------------------------------------------------|
+| AI Ethics and Safety          | 2         | "Thinking an AI that has digested all human knowledge, then goes on to kill us, is fucking delusional" |
+| Human Behavior and Consciousness | 1         | Reference to Jeremy Griffith’s explanation        |
+| Gender and Diversity in AI    | 1         | "This list reeks of male testosterone"            |
+| Free Speech and Social Media  | 1         | GitHub project "volume-buttons" for free speech   |
+| Quantum Computing             | 1         | Discussion on qubits versus bits                  |
+| Skepticism of Tech Leaders    | 1         | Criticism of Altman, Schmidt, Musk                |
+| Geopolitics and Global Issues | 1         | Message on Iran                                   |
+| Blockchain and Knowledge Ownership | 1       | Video on RLHF over blockchain                     |
+
+These tables distill Keyvan’s contributions into a structured format, showing both the timeline and frequency of his thematic engagement.
+
+---
+
+### Contextual Insights
+
+Keyvan’s messages reveal a thinker deeply engaged with both the technical and societal facets of AGI, often challenging conventional wisdom. A striking and unexpected detail is his reference to biological gender dynamics—tying male dominance in AI to innate differences, exemplified by murder rate disparities. This adds a controversial layer to his otherwise technical discourse, reflecting a willingness to broach sensitive topics.
+
+His forward-looking ideas, such as quantum computing’s role in AGI and blockchain-based knowledge ownership, position him as an innovator, though these concepts remain speculative and face practical hurdles (e.g., quantum hardware limitations, blockchain scalability). His geopolitical focus on Iran further underscores an awareness of AI’s global ramifications, aligning with contemporary debates about technology’s role in international stability.
+
+---
+
+### Limitations and Considerations
+
+This analysis is constrained by its reliance on messages from 2024 to 2025, as earlier archives were unavailable. This temporal boundary may exclude prior themes or shifts in Keyvan’s thinking, limiting the full scope of his contributions. The message count reflects only the accessible data, potentially underrepresenting his activity.
+
+Additionally, some topics—like gender dynamics and tech leader critiques—are sensitive or polarizing, necessitating careful interpretation to avoid misrepresentation. The contrast with common sense highlights where Keyvan’s views diverge (e.g., biological vs. societal gender factors) or align (e.g., human responsibility in AI ethics), offering insight into their innovative or contentious nature.
+
+---
+
+### Conclusion
+
+Keyvan M. Sadeghi’s posts on the AGI mailing list weave a complex narrative of technical insight and societal critique. His skepticism of AI threats, advocacy for consciousness studies, and controversial take on gender disparities stimulate robust discussion. Innovations like blockchain ownership and quantum computing visions push boundaries, while his focus on geopolitics and distrust of tech leaders ground his work in real-world stakes. Though some views—like biological determinism—clash with common sense’s societal emphasis, this analysis captures the breadth of his engagement, preserving the original text’s depth for reconstruction.
+
+# Keyvan’s opinions expressed in Twitter
+
+This essay examines Keyvan M. Sadeghi's worldview as expressed through his tweets between December 2022 and March 2025. Drawing from his commentary on technology, politics, society, and personal philosophy, it provides a detailed extrapolation of his beliefs, contextualized within the events and debates of the time. Keyvan’s perspectives reveal a tech-savvy, skeptical, and principled individual who values decentralization, rational problem-solving, and harmonious coexistence over domination.
+
+---
+
+## 1. Technology: A Vision of Decentralization and Skepticism
+
+Keyvan’s tweets about technology highlight his passion for decentralized systems, his skepticism toward mainstream AI narratives, and his belief in cryptocurrency’s transformative potential. These views reflect broader trends in the tech landscape of 2023-2025, including debates over data privacy, AI ethics, and blockchain adoption.
+
+### 1.1 Decentralized Systems and Open-Source Solutions
+Keyvan consistently champions decentralized technologies and open-source initiatives, viewing them as antidotes to centralized control:
+- **Tweet Example**: "Keep your trust based centralized legacies to yourself, we're gonna build our own!" This reflects his rejection of traditional, top-down tech structures.
+- **Context**: During 2023-2024, Big Tech companies like Google and Meta faced growing criticism for monopolistic practices and data breaches. Keyvan’s support for projects like Functionland’s decentralized storage network underscores his belief in community-driven alternatives.
+
+**Extrapolation**: Keyvan likely sees decentralization as a way to empower individuals and reduce reliance on corporate gatekeepers. His advocacy suggests a future where technology prioritizes user sovereignty, potentially influencing fields like cloud computing, social media, and digital identity.
+
+### 1.2 Skepticism Toward AI Safety and Corporate Narratives
+Keyvan’s tweets reveal a deep mistrust of mainstream AI discourse, particularly around safety and regulation:
+- **Tweet Example**: "AI safety is a made up concept to create more wealth for the already wealthy!" He also calls alignment efforts "grifts," arguing, "we can't control or regulate AI."
+- **Context**: In 2023, the AI ethics debate intensified as companies like OpenAI pushed safety narratives amid competition with rivals. Critics, including Keyvan, saw this as a power play by elites rather than a genuine concern.
+
+**Extrapolation**: Keyvan’s skepticism likely extends beyond AI safety to a broader distrust of corporate agendas in tech. He may believe that innovation thrives in unregulated, grassroots environments rather than under the thumb of profit-driven corporations or academic gatekeepers. This could imply support for rogue AI projects or indie developers over established players.
+
+### 1.3 Cryptocurrency as a Tool for Empowerment
+Keyvan views cryptocurrency, especially Bitcoin, as a cornerstone of individual agency in a tech-dominated world:
+- **Tweet Example**: "Crypto, or a Crypto 2.0, might just be the real answer to the AI fears." He also calls Bitcoin the only legitimate "memecoin," emphasizing its practical value.
+- **Context**: The 2023-2024 crypto market saw Bitcoin stabilize as a store of value while other tokens faltered, reinforcing its role in financial independence movements.
+
+**Extrapolation**: For Keyvan, crypto isn’t just a speculative asset but a means to counter centralized financial and tech systems. He might envision a future where blockchain technologies underpin decentralized economies, offering resilience against AI-driven disruptions or governmental overreach.
+
+---
+
+## 2. Politics: A Call for Rationality Amid Polarization
+
+Keyvan’s political commentary critiques the divisiveness of contemporary discourse, advocating for principled, first-principles thinking over ideological loyalty. His tweets reflect the polarized climate of the 2024 U.S. election cycle, where tech policy became a battleground.
+
+### 2.1 Rejecting Binary Political Narratives
+Keyvan expresses frustration with the left-right divide, seeking a more rational approach:
+- **Tweet Example**: "Right: I love this country! Left: you hate this people! Anyone approaching the problems from first principles?"
+- **Context**: The 2024 election saw heightened rhetoric around immigration, tech regulation, and economic policy, often drowning out substantive debate.
+
+**Extrapolation**: Keyvan likely believes that political solutions should stem from logical analysis rather than emotional tribalism. His emphasis on first principles—breaking problems down to their fundamentals—suggests a desire for policy-making that transcends party lines, perhaps favoring technocratic or evidence-based governance.
+
+### 2.2 Critique of Political and Tech Elites
+Keyvan’s skepticism extends to political figures and influential tech leaders:
+- **Tweet Example**: He mocks Elon Musk’s "Iron Man" persona, noting he’s been "too privileged too long," and dismisses "boomer scientists" as outdated.
+- **Context**: By 2024, Musk’s polarizing influence on X and tech policy drew both admiration and ire, while aging scientific elites faced scrutiny for clinging to outdated paradigms.
+
+**Extrapolation**: Keyvan’s disdain for elites suggests he values fresh perspectives over entrenched authority. He might support emerging leaders who prioritize practical solutions over charisma or legacy, aligning with his broader critique of centralized power.
+
+---
+
+## 3. Society: Technology’s Double-Edged Impact
+
+Keyvan’s tweets on society explore how technology shapes human behavior, alongside commentary on polarization and identity. His views reflect the societal upheavals of 2023-2024, including AI’s rise and cultural debates on X.
+
+### 3.1 Technology’s Role in Shaping Behavior
+Keyvan acknowledges technology’s power while questioning its societal implications:
+- **Tweet Example**: "With ChatGPT, and Google before that, it's not wrong!" recognizes AI’s democratizing potential, even as it challenges traditional expertise.
+- **Context**: By 2023, ChatGPT had disrupted education and media, sparking debates about knowledge access versus misinformation.
+
+**Extrapolation**: Keyvan likely sees technology as a neutral force—capable of empowering or dividing, depending on its application. He might advocate for education systems that teach critical thinking alongside tech literacy, ensuring society harnesses tools like AI constructively.
+
+### 3.2 Commentary on Polarization and Identity
+Keyvan critiques social divisions with a sharp, balanced lens:
+- **Tweet Example**: "Who's A Dick You can definitely ask valid questions, but don't expect a trophy for being mean" likely references the 2023 pronoun debates on X. He also dismisses "right wing meritocracy propaganda" and "left blank slate fantasy."
+- **Context**: Identity politics peaked in 2023-2024, with X becoming a battleground for cultural clashes.
+
+**Extrapolation**: Keyvan’s rejection of ideological extremes suggests he favors a society that values individual merit and nuance over group labels. He might envision a future where technology reduces tribalism by fostering transparent, merit-based interactions—though he’d likely remain wary of its potential to amplify echo chambers.
+
+---
+
+## 4. Personal Philosophy: Harmony and Situational Success
+
+Keyvan’s personal philosophy centers on coexistence, situational intelligence, and a rejection of domination. These ideas tie his worldview together, offering a lens for understanding his broader perspectives.
+
+### 4.1 Intelligence and Achievement as Contextual
+Keyvan challenges conventional notions of success:
+- **Tweet Example**: "intelligence and achievements are purely situational!" He critiques the "monkey brain" drive to dominate.
+- **Context**: The tech industry’s meritocracy obsession in 2023-2024 often ignored systemic factors, prompting pushback from thinkers like Keyvan.
+
+**Extrapolation**: Keyvan likely believes that talent and success depend on opportunity and environment, not innate superiority. This could translate to support for policies or systems—like decentralized tech—that level the playing field, giving more people a chance to thrive.
+
+### 4.2 Harmony Over Domination
+Keyvan’s emphasis on harmony is a recurring theme:
+- **Tweet Example**: "Why do you want to dominate in the first place? Isn't there enough space / resources for all of us to live in harmony?" He also suggests "worship star systems instead of humans."
+- **Context**: Amid 2024’s global resource debates and Musk’s space ambitions, Keyvan offers a counterpoint focused on collaboration.
+
+**Extrapolation**: This philosophy reflects a long-term, almost cosmic outlook—humanity as part of a larger system rather than a species destined to conquer. Keyvan might advocate for sustainable tech development and cooperative global frameworks, rejecting zero-sum competition.
+
+---
+
+## Conclusion: A Forward-Thinking, Principled Vision
+
+Keyvan M. Sadeghi’s worldview, as distilled from his tweets, is a blend of skepticism, pragmatism, and idealism. He envisions a future where decentralized technology empowers individuals, politics prioritizes reason over rhetoric, and society balances innovation with harmony. His critiques—of centralized power, elite narratives, and divisive ideologies—resonate with the challenges of 2023-2025, from AI’s rise to cultural polarization.
+
+Keyvan’s emphasis on situational intelligence and coexistence suggests a belief in humanity’s potential to adapt and thrive, provided we reject domination in favor of collaboration. His worldview offers a roadmap for navigating an increasingly complex world—one where technology, if wielded thoughtfully, can foster a more equitable and interconnected future.
+
+## Tweets
+
+- We were told this man plays 4-dimensional chess! This is it in action eh? Alienating half of X's revenue source seems pretty dumb to me. Guess we'll know in time, fun to observe any how!
+- Not that I disagree with the message! I follow @benshapiro for this type of content. It's better to hear from both the left and the right to have a grip on what ticks in society today. Irony is we were promised flying cars by now :))
+- The purpose of tax has been lost to history! Originally tax was charged in exchange for services that a government provides. What's the service they provide to crypto owners?
+- Traditional terms, B2B and B2C, don't describe platform businesses accurately. Here's another try: X -> B2C2B (Platform for consumers, sell adds to businesses) AirBnB -> B2O2C (Platform for "owners", in turn selling to consumers) Interesting variants emerging in #Web3...
+- @functionland -> D2O2C (App and Hardware) Developers to (BLOX) Owners to (Storage) Consumers What's the acronym for your favorite project?
+- Been waiting impatienly the entirety of 2022 for this moment Congratss @BigOnionBots on booting up the first node of the #FULA network!
+- @EMostaque Customised sounds like more marketing. Decentralized, yes please.
+- @AbbyCabs @functionland in a couple of years! We're focused on the storage network now, but rewarding app devs for each download was in the mission since day one. Implementation scheduled for end of this year!
+- @AbbyCabs @functionland https://t.co/qntzC5rWfX
+- Had the pleasure of meeting one of the Ethereum visionaries today, kudos @diiorioanthony
+- @FieldAgronomy21 @functionland @diiorioanthony
+- Inovative UI
+- How can we power mobile apps with a P2P backend similar to BitTorrent? Masih H. Derkani describes eloqently in the below article https://t.co/k93yKjpsmR #ipfs #p2p #mobileapps #bittorrent
+- Recent question by an investor: what prevents 3 people + #ChatGPT to copy what you do? Answer by @functionland: delivering hardware at scale!
+- @FieldAgronomy21 @jasonlk Yo ma , yo ma
+- Not bad for a noob? https://t.co/QWOD1QuxNf https://t.co/dQGT4zP7uA
+- Amazing!
+- @realGeorgeHotz Hello hello, checked your emails today yet? Re: RK3588
+- @FieldAgronomy21 @E Ethereum_Women @shidow_sh @ClubElephants
+- Who's A Dick You can definitely ask valid questions, but don't expect a trophy for being mean. Harassing someone by using a pronoun they don't like is not intellectual. Neither is shoveing your pronoun up everyone's butt. Both these character types are simply attention seekers.
+- @coffeebreak_YT Safranko started a new front, https://t.co/PE6EjdYYmj, the press release mentions you: https://t.co/hpedcC3m2b
+- "Smart Server" was its name. It came when everything was a monthly subscription. There was darkness, then there was light again...
+- Heartwarming to see fellow hardware enthusiasts sharing the passion for modularity
+- One wolf this side of the street trusts another on the other side. Keep your trust based centralized legacies to yourself, we're gonna build our own!
+- @tunguz
+- Prompt: "Estimate a valuation for aws, azure and gcp combined, in 10 years, account for rise of ai services needed by the likes of chatgpt" = ~$30Trillion! Current valuation => $1.5T 2024 => $2.6T https://t.co/RzruaQLcBV #ChatGPT #promptengineering
+- @elonmusk #PayElonForFreeSpeech, not even allowed to comment on his posts anymore!
+- Right: I love this country! Left: you hate this people! Anyone approaching the problems from first principles?
+- @elonmusk Decentralize your servers or we'll sue you
+- I'm a quantum state
+- #AGI is our friend and our future https://t.co/FueRcKrdYK
+- @jamie247 Jinxed it
+- @Eljaboom @functionland @SingularityNET Nah, this is the story of @bengoertzel standing on the shoulders of giants!
+- @bengoertzel is a hero who started his crusade against bigotry when my generation were infants. The world owes him the scientific foundation of #AGI, that for the time being is represented by capitalist zeelots like @sama.
+- Tokenomics: the science of accruing value in an imaginary token, measurable by other currencies, by means of forming consensus in a community. #Crypto
+- @Eljaboom The yellow man with his big mouth and big words
+- The Singularity is far! Long live #Plurality!
+- @AlhajiswishUDZR @Eljaboom @Troeshow @functionland AI will exceed "current" human intelligence, yes! But next gen of things like Neuralink will allow us to play on the same level as AI. The estimate that Kurzweil gives is that we're 5 years away from all this!
+- Software exposing its “Interaction Logs” to the outside world, with “human language”, is the bridge. It’s achievable because every programmer knows how to print stuff!
+- @elonmusk has been too privileged too long, he actually believes he's Iron Man! Desperate to whitewash himself, by throwing other equally privileged useless politicians under the bus!
+- @realGeorgeHotz Nah no more hierarchical classes, we’ll finally all be equal with AGI
+- I'm personally guilty of this: "Curse of Completeness"! Showing off is not the motive. We want to be thorough in our explanations.
+- @fireship_dev - Do a back flip, snap the bad guy's neck
+- @Eljaboom @ASI_Alliance That's my birthday
+- How to live life like sci-fi! An intro: https://t.co/lC66DVrzGi Thanks for the amazing interview @Eljaboom
+- Line Follower, 2008 https://t.co/6M943Lo4Jl
+- Smart Server, aka #FxBlox, 2024 https://t.co/d9y0IQdydD More Robotics, 2012 https://t.co/SI8W9YYD8a #AGI research, @HongKongPolyU, 2012 https://t.co/c3XdQai1pP Genetic Algorithms research, 2011 https://t.co/3tQ8mkescE Line Follower, 2008 https://t.co/6M943Lo4Jl
+- @depinrex @functionland Answered in detail on TG: https://t.co/wO4noXPzHY
+- @jamie247 Not to worry, they too busy protecting their houses of cards! True AI innovation yet to come
+- @yacineMTB Agreed! AI safety is a made up concept to create more wealth for the already wealthy!
+- Hmmm but unlike Bitcoin, which was all about f*ck the top-down system, with an anonymous founder, the main goal for “AI money” is making @EMostaque king of the world? Is that literally the only world view in San Fran?!
+- @EMostaque @iman_olya @SchellingAI I admire that you’re trying your best, but even if the whole world bows to you, it won’t fill the void. Ask Jim Carrey! https://t.co/NCok3VjyXr
+- @jamie247 @tprstly @sama is a thief, raised in @paulg cult. It can be done with $7M, IFF bootstrapped in a community setting! To also criticize ourselves, the crypto heads, we haven't learned enough from Bitcoin. Satoshi's goal was not wealth or recognition.
+- @alxcnwy @three_cube I'm a long time hater of all 3 options, Mac, Windows AND Linux (also iOS and Android!) It's a love hate relationship to be precise. It sucks that to this date, there's been no path to mix and match best parts of each to one's preference.
+- @SoverantNetwork @ylecun Boomer scientists are the all knowing
+- @FieldAgronomy21 @functionland The reward of perseverance through the that the world threw our way the past 3 years!
+- @roydanroy @ylecun @ylecun likes pedos?
+- @roydanroy @ylecun That’s the nice Canadian in us. This is the lingo that Yankees understand ;) Observe his and Elon’s behavior the past few days!
+- @erulabs I’ve came to the conclusion that it’s all about a number: year born! Boomers and older human models are severely outdated!
+- @roydanroy Hmmm if you're not being sarcastic, we're actually giving it a try! https://t.co/eHUAvJ2moB It'll all be OSS
+- @alxcnwy @three_cube Great job on the curation! I might go get one and apply your guidelines to make it tolerable ;)Serious! Appreciated
+- @jamie247
+- @roydanroy I'm calling their fields, collectively, Boomer Science! We live in a new world. They'll likely stay at their bubbles and award themselves interdisciplinary. Typical boomer behavior!
+- @FounderEric To what end? Those that exist are not exploring new territories, instead pursuing cheap clones of SV!
+- @FounderEric @MoienGiashi Lesgooo
+- @FounderEric https://t.co/yyVIRuWVBi
+- @FounderEric
+- Worship star systems instead of humans, that's where we get our entropy from
+- @roydanroy Time to quantize Pedro and award him the Noble of literature!
+- @levie Have you had any? Besides bullying startups in your domain with lawsuits, like ours?!
+- @kiwilark @HighyieldHarry
+- @naval Explain docker in a few words?
+- @RemiCadene @LeRobotHF
+- Says anyone oblivious to how manufacturing works.
+- @Dexter3Actual Those people delivered the device during the worst chip shortage in history, somehow
+- Comments suggest he'll be missed!
+- @pumpdotfun @MKBHD Coming from a platform renowned for its "c credible" tokens, that's rich!
+- @erulabs
+- @functionland Tada?
+- @EMostaque Your views have evolved since last year Now that you see this far, can you also give your best prediction on how humans feel useful/meaningful in the post-AGI world?
+- $BTC is holding its ground despite the AI hype nosedive. Let's see if the crypto bull market has legs. Otherwise global winter is coming!
+- @cz_binance If we can get past the chasm of human greed, crypto can be our measure of impact, in the post-scarcity era.
+- @paulg It's only situationally correct. Bitcoin wanted to 10x the agency of users, not the founder.
+- Question for PG: where do you think your life would be, have you stayed in Weymouth the entire time?
+- We DO KNOW EXACTLY how to control more intelligent systems: MONEY! What it actually does is put a cap on the agency of each individual system. We need more advanced agency calculation methods for the post-AGI world. Crypto is our first attempt. https://t.co/rGDh2QBq7o https://t.co/gYSt6IYyid
+- Our edge over AGI is being entangled with the solar system. Until we leave sol behind...
+- Trump's AI + Crypto stance is a smart agenda for America, either by coincidence or he's not as shallow as previously assumed. Money is a contract we invented to limit the agency of individuals and systems. AI, OTOH, is a different beast! It'll soon outsmart all of us...
+- We can't control or regulate AI. All these alignment initiatives are just grifts. Elitists need their money! Instead, we should align ourselves with AI.
+- As for Crypto? Sure, it's a landfill of Ponzis and scams, but there's a legits utility side. One that could be our saving grace. Crypto, or a Crypto 2.0, might just be the real answer to the AI fears.
+- I can do what you do better than you! No matter how many years of "experience" you think you have, I'll take over, and smash your results! This is the monkey brain trained for a jungle environment. With ChatGPT, and Google before that, it's not wrong!
+- Sure, take over anyone's job, work harder, and you'll do better! Why do you want to dominate in the first place though? Why did you choose Elon as role model? Isn't there enough space / resources for all of us to live in harmony? No matter how advanced our tech becomes?
+- Point being, and it's a wild claim: intelligence and achievements are purely situational! More precisely, situation over time. Who married whom? What values your ancestors brainwashed the bloodline with? The angle sun spammmed entropy into your neighborhood?
+- Right wing meritocracy propaganda is as delusional as the left blank slate fantasy.
+- @jamie247 Doable if we get a 6 month break from meme dumps
+- All memecoins are scams, except for one: $BTC
+- The Architect: Our last invention. Premiering soon in a device near you... https://t.co/K9HggKtzX7
+- @levie @sama The right answer was do both! Fun seeing "people don't understand" is still your world view
+
